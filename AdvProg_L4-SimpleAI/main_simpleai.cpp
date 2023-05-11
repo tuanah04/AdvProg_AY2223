@@ -62,7 +62,7 @@ int main()
     vocabulary.push_back("world");
     vocabulary.push_back("nice");
     */
-    
+     
     // B1
     int maxGuess = readMaxGuess();
     int wordLen = readWordLen();
