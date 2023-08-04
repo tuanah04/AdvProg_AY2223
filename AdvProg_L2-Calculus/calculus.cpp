@@ -12,12 +12,7 @@ double mySin(double x);
 double myCos(double x);
 double mySqrt(double x);
 
-/***
-    Args:
-        x (double): a number
-    Returns:
-        double: cosine of x
-***/
+
 double myCos(double x) 
 {
     // return 0.0;
