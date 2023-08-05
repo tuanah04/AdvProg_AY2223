@@ -8,8 +8,7 @@
 #include "hangman.h"
 #include "draw.h"
 
-int main()
-{
+int main(){
     srand((int)time(0));
 
     string vocabularyFile = "data/Ogden_Picturable_200.txt";
