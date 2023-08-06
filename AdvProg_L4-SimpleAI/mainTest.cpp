@@ -13,8 +13,6 @@
 using std::string, std::ifstream;
 using namespace std;
 
-
-
 struct TestStruct
 {
     std::string testName;
