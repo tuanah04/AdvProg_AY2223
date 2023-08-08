@@ -8,8 +8,6 @@
 
 using namespace std;
 
-
-
 // set some attributes as default value
 // DO NOT CHANGE THIS CONSTRUCTOR
 Game::Game(int _width, int _height)
